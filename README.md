@@ -1,2 +1,3 @@
-# lab2
-Lab class 2 project: The logistic map
+# Lab class 2
+## The logistic map
+![alt text](stuffy_stuff/problem.png "problem.png")
