@@ -1,3 +1,8 @@
+/*
+author: markus
+  date: 2015-10-29
+*/
+
 #include <iostream>
 
 using namespace std;
